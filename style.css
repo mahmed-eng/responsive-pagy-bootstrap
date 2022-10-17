@@ -1,0 +1,244 @@
+.navdiv {
+    margin-top: 38px;
+    margin-left: 80px;
+    width: 100%;
+    height: 69px;
+    background-color: #fff;
+}
+
+.nav {
+    position: fixed;
+    background-color: white;
+}
+
+ul {
+    padding: 10px;
+    background-color: white;
+}
+
+.lis:hover {
+    color: blue !important;
+}
+
+.buttons {
+    margin: 142px;
+    background-color: white
+}
+
+.login:hover {
+    color: blue;
+}
+
+h1 {
+    margin-top: 200px;
+}
+
+
+/* designing image */
+
+.imge {
+    margin-top: -292px;
+}
+
+.fo {
+    width: 280px;
+    height: 38px;
+    white-space: normal;
+}
+
+.for {
+    margin-top: -230px;
+}
+
+.but {
+    margin-top: -65px;
+    margin-left: 290px;
+    /* width: 280px; */
+    height: 42px;
+}
+
+.para {
+    display: inline;
+    padding: 30px;
+}
+
+.par {
+    /* margin-left: -410px; */
+    margin-top: 40px;
+}
+
+.envel {
+    /* margin-bottom: 490px; */
+    color: white;
+    background-color: rgb(34, 33, 33);
+    outline-color: rgb(49, 49, 49);
+    position: relative;
+    top: 29px;
+}
+
+
+/* icons styling */
+
+.bull {
+    color: green;
+    font-size: 51px;
+}
+
+.diam {
+    color: red;
+    font-size: 51px;
+}
+
+.speed {
+    color: rgb(0, 47, 255);
+    font-size: 51px;
+}
+
+
+/* card styling */
+
+.cardo {
+    box-shadow: 10px 10px 59px 0px rgba(0, 0, 0, 0.32);
+    -webkit-box-shadow: 10px 10px 59px 0px rgba(0, 0, 0, 0.32);
+    -moz-box-shadow: 10px 10px 59px 0px rgba(0, 0, 0, 0.32);
+    /* margin: 2px; */
+}
+
+.cardo:hover {
+    /* margin-top: -22px; */
+    transition: all .2s ease-in-out;
+    transform: scale(1.1);
+}
+
+.cardt {
+    box-shadow: 10px 10px 59px 0px rgba(0, 0, 0, 0.32);
+    -webkit-box-shadow: 10px 10px 59px 0px rgba(0, 0, 0, 0.32);
+    -moz-box-shadow: 10px 10px 59px 0px rgba(0, 0, 0, 0.32);
+}
+
+.cardt:hover {
+    /* margin-top: -22px; */
+    transition: all .2s ease-in-out;
+    transform: scale(1.1);
+}
+
+.cardth {
+    box-shadow: 10px 10px 59px 0px rgba(0, 0, 0, 0.32);
+    -webkit-box-shadow: 10px 10px 59px 0px rgba(0, 0, 0, 0.32);
+    -moz-box-shadow: 10px 10px 59px 0px rgba(0, 0, 0, 0.32);
+}
+
+.cardth:hover {
+    /* margin-top: -22px; */
+    transition: all .2s ease-in-out;
+    transform: scale(1.1);
+}
+
+
+/* card image styling */
+
+.zen {
+    width: 130px;
+    height: 40px;
+    margin-top: 19px;
+}
+
+li {
+    list-style-type: none;
+}
+
+
+/* fun facts */
+
+.funf {
+    display: inline-block;
+}
+
+
+/* social accounts custom styling */
+
+.twitt {
+    color: rgb(240, 240, 247);
+    background: rgb(5, 132, 236);
+    font-size: 20px;
+    border: 7px solid rgb(5, 132, 236);
+    border-radius: 100%;
+}
+
+.inst {
+    color: rgb(240, 240, 247);
+    background: rgb(236, 5, 5);
+    font-size: 20px;
+    border: 7px solid rgb(236, 5, 5);
+    border-radius: 100%;
+}
+
+.mic {
+    color: rgb(240, 240, 247);
+    background: rgba(18, 78, 167, 0.836);
+    font-size: 20px;
+    border: 7px solid rgba(18, 78, 167, 0.836);
+    border-radius: 100%;
+}
+
+.enve {
+    color: rgb(240, 240, 247);
+    background: rgba(235, 5, 196, 0.836);
+    font-size: 20px;
+    border: 7px solid rgba(235, 5, 196, 0.836);
+    border-radius: 100%;
+}
+
+.pen {
+    color: rgba(19, 150, 2, 0.836);
+    background: #fff;
+    font-size: 20px;
+    border: 7px solid #fff;
+    border-radius: 100%;
+    outline-style: solid;
+    outline-color: rgba(19, 150, 2, 0.836);
+}
+
+.sta {
+    color: rgb(255, 174, 0);
+    position: relative;
+    left: -84px;
+    top: 30px;
+}
+
+.star {
+    color: rgb(255, 174, 0);
+    position: relative;
+    left: -128px;
+    top: 30px;
+}
+
+
+/* create account */
+
+.bute {
+    width: 550px !important;
+    box-shadow: 10px 10px 59px 0px rgba(0, 0, 0, 0.32);
+    -webkit-box-shadow: 10px 10px 59px 0px rgba(0, 0, 0, 0.32);
+    -moz-box-shadow: 10px 10px 59px 0px rgba(0, 0, 0, 0.32);
+}
+
+
+/* vertical line */
+
+.vl {
+    margin-left: -35px;
+    display: inline;
+    color: grey;
+    background-color: grey;
+    border: 1px solid grey;
+    width: 20px;
+    height: 380px !important;
+}
+
+
+/* footer */
+
+.faz:hover {
+    opacity: 0.5;
+}
